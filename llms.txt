@@ -1,10 +1,10 @@
 # William Lu
 
-> William Lu's personal website: projects and personal referral links.
+> William Lu's personal website.
 
 ## Tesla referral
 
-- [Tesla referral details](https://william.lu/tesla-referral/): William Lu's Tesla referral link and code.
+- [Tesla referral data](https://william.lu/tesla-referral.json): Machine-readable referral information.
 - Referral owner: William Lu
 - Referral code: william60448
 - Referral URL: http://ts.la/william60448
